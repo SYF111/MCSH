@@ -1,0 +1,6 @@
+/output
+*.p
+*.xml
+*.iml
+*.pyc
+.idea/.name
